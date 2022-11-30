@@ -29,5 +29,9 @@
 
 ## Test
 
+<<<<<<< HEAD
 Das ist ein Test.
 >>>>>>> 770b07ae400e6df4bf6e73a2a9a1384d82cbf143
+=======
+Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
+>>>>>>> b5dcf7a423f3a9b86ae4066471f1bb009a6c0173
