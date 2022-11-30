@@ -12,7 +12,15 @@
 
 - `commit`
 - `push`
+<<<<<<< HEAD
 - `pull` 
 # in terminal git pull eingeben dann werden neue DInge geladen 
 
 # 
+=======
+- `pull`
+
+## Git Cheatsheet
+
+- [Cheat Sheet 1](https://raw.githubusercontent.com/rstudio/cheatsheets/main/git-github.pdf)
+>>>>>>> b411b4ed3b0f79dc8be4bc5b24cd31f703a95082
