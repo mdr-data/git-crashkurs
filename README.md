@@ -15,4 +15,4 @@
 
 ## Test
 
-Das ist ein Test.
+Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
