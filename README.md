@@ -23,4 +23,11 @@
 ## Git Cheatsheet
 
 - [Cheat Sheet 1](https://raw.githubusercontent.com/rstudio/cheatsheets/main/git-github.pdf)
+<<<<<<< HEAD
 >>>>>>> b411b4ed3b0f79dc8be4bc5b24cd31f703a95082
+=======
+
+## Test
+
+Das ist ein Test.
+>>>>>>> 770b07ae400e6df4bf6e73a2a9a1384d82cbf143
