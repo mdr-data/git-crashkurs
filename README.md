@@ -1,9 +1,9 @@
 # git-Crashkurs
 
-## Motivation
+## Motivation 
 
 
-## Wichtige Git Commands
+## Wichtige Git Kommandos
 
 - `commit`
 - `push`
