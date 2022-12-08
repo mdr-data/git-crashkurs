@@ -29,6 +29,10 @@
 
 Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
 
+
+
 ## Action Points
 
+- add documentation to push local repo to remote
 - ...
+
