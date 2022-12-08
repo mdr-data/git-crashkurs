@@ -29,3 +29,8 @@
 
 Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
 
+
+## ToDo
+
+- add documentation to push local repo to remote
+
