@@ -29,10 +29,15 @@
 
 Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
 
+## zweiter Teil crashkurs
+
+Heute gab es in der Kantine Rotkraut
+
 
 
 ## Action Points
 
 - add documentation to push local repo to remote
 - ...
+
 
