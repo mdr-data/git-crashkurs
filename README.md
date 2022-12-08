@@ -35,3 +35,7 @@ Das ist ein Test.
 =======
 Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
 >>>>>>> b5dcf7a423f3a9b86ae4066471f1bb009a6c0173
+
+## zweiter Teil crashkurs
+
+Heute gab es in der Kantine Rotkraut
