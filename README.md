@@ -30,7 +30,9 @@
 Das ist ein Test. Nächsten Mittwoch gibt es Jägerschnitzel in der Kantine.
 
 
-## ToDo
+
+## Action Points
 
 - add documentation to push local repo to remote
+- ...
 
